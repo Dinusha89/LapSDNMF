@@ -1,0 +1,1 @@
+For ReutersMinMax and Threesources best results with the deep layers configuration is used.
