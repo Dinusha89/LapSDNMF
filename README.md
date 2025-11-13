@@ -3,6 +3,18 @@ Matlab implementation for "Label Propagation Assisted Soft-constrained Deep Non-
 
 If you find it useful, please consider citing our work.
 
+```bibtex
+@article{gunawardena2025lapsdnmf,
+  title={LapSDNMF: Label propagation assisted soft-constrained deep non-negative matrix factorisation for semi-supervised multi-view clustering},
+  author={Gunawardena, Sohan Dinusha Liyana and Luong, Khanh and Balasubramaniam, Thirunavukarasu and Nayak, Richi},
+  journal={Machine Learning with Applications},
+  pages={100783},
+  year={2025},
+  publisher={Elsevier},
+  doi={https://doi.org/10.1016/j.mlwa.2025.100783}
+}
+```
+
 Abstract: Semi-supervised methods based on non-negative matrix factorisation have emerged as a popular approach for clustering. 
 However, the pressing challenge of capturing complex non-linear relationships within multi-view data is seldom considered in the semisupervised context. 
 
